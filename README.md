@@ -1,1 +1,1 @@
-# nexai
+# NEXAI
